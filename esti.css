@@ -1,0 +1,16 @@
+body{
+	
+	background-image:url(imagenes/shakira.jpeg); 
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+a{
+	color: #000080;
+}
+h1{
+	color:red;
+}
+p{
+	font-family: 'Droid Serif', serif;
+}
+

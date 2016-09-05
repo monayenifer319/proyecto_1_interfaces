@@ -1,0 +1,18 @@
+body{
+	background-color: #00FFFF;
+}
+h1,h2{
+	color: red;
+}
+p{
+	font-family: 'Indie Flower', cursive;
+}
+.verde{
+	color:#008000;
+}
+.rojo{
+	color:red;
+}	
+.amarillo{
+color:yellow;
+}
